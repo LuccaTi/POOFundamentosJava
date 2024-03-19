@@ -1,7 +1,5 @@
-## Repositório:
+Hi there 👋
 
-POO_Fundamentos_Java
+## Projeto Java:
 
-## Descrição:
-
- Programação orientada a objetos com Java, conceitos fundamentais e projetos. 
+Programação orientada a objetos com Java, conceitos fundamentais, pacotes, classes e atividades. 
